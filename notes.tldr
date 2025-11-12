@@ -36,9 +36,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 1077.368049447488,
-			"y": 792.0397204518014,
-			"lastActivityTimestamp": 1762841411540,
+			"x": 63.24042834285308,
+			"y": 1615.5264311127198,
+			"lastActivityTimestamp": 1762845319114,
 			"meta": {}
 		},
 		{
@@ -322,12 +322,87 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 787.9207250561349,
-			"y": -322.71498531121017,
-			"z": 0.4329624708302908,
+			"x": 458.54286353131056,
+			"y": -1059.3896853343413,
+			"z": 0.6171144323986048,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
+		},
+		{
+			"x": -304.0866219890512,
+			"y": 1207.4963034194916,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1_iTQHuXqxfF1uYzODbHy",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 501.76698068998564,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "*arrow function "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "let myName = () => {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "     return \"Omkar Ghadge\";"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a9HYdG4V",
+			"typeName": "shape"
 		},
 		{
 			"x": 90,
@@ -429,10 +504,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:0bcb5mCPXIwnfI0FbN7GP",
+			"editingShapeId": "shape:vkBCswLik8XVonXCnDjK5",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:0bcb5mCPXIwnfI0FbN7GP"
+				"shape:vkBCswLik8XVonXCnDjK5"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -442,6 +517,57 @@
 			"id": "instance_page_state:page:page",
 			"pageId": "page:page",
 			"typeName": "instance_page_state"
+		},
+		{
+			"x": -304.92467203433245,
+			"y": 1423.022008771317,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KJ1xpxrAcBcPpAV_7yjTy",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 441.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "let number = Math.random() * 100 "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "{Math.random(number)}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aAQSSbSV",
+			"typeName": "shape"
 		},
 		{
 			"x": -288.31548666662616,
@@ -495,6 +621,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -227.14331175495403,
+			"y": 1605.808210373062,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vkBCswLik8XVonXCnDjK5",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 943.1500244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "when you make components import  it in App.jsx  otherwise it will not work"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBULh8EG",
+			"typeName": "shape"
+		},
+		{
 			"meta": {},
 			"id": "page:page",
 			"name": "Page 1",
@@ -512,7 +677,7 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:color": "yellow"
+				"tldraw:color": "light-green"
 			},
 			"brush": null,
 			"scribbles": [],
@@ -527,7 +692,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 817.6000366210938,
+				"w": 804,
 				"h": 557.6000366210938
 			},
 			"insets": [
@@ -545,7 +710,7 @@
 			"isFocused": true,
 			"devicePixelRatio": 1.25,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": false,
+			"isHoveringCanvas": true,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
@@ -554,6 +719,45 @@
 			"id": "instance:instance",
 			"currentPageId": "page:page",
 			"typeName": "instance"
+		},
+		{
+			"x": -243.7626929483954,
+			"y": 1097.3456383919283,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:un0AbqRb2ZibGtGsuV2xb",
+			"type": "text",
+			"props": {
+				"color": "light-violet",
+				"size": "m",
+				"w": 470.3999938964844,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "CSS can be directly imported in React."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a8AU7JSG",
+			"typeName": "shape"
 		}
 	]
 }
