@@ -36,9 +36,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": -29.16131023755571,
-			"y": 1829.0479728579737,
-			"lastActivityTimestamp": 1763368305972,
+			"x": -97.19985794732611,
+			"y": 3223.3170841745396,
+			"lastActivityTimestamp": 1763446190940,
 			"meta": {}
 		},
 		{
@@ -138,6 +138,134 @@
 			},
 			"parentId": "page:page",
 			"index": "a6NWlNhV",
+			"typeName": "shape"
+		},
+		{
+			"x": -469.60495775811717,
+			"y": 2603.8137745286904,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zyFfCM5HSX043m3Vqiz5O",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 935.6625366210938,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". If-else statements : Choose between two blocks of content."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". Ternary operator : Quick way to choose between two options."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". Logical operations : Useful for rendering content when a condition is true."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aI1A2fzl",
+			"typeName": "shape"
+		},
+		{
+			"x": -546.0782423388706,
+			"y": 2412.7469208081266,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZWtWr95jT1rYIhTdssTrH",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "m",
+				"w": 323.6875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"start": 20,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Conditional rendering"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aFhaRECV",
 			"typeName": "shape"
 		},
 		{
@@ -322,12 +450,75 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 333.2187509039984,
-			"y": -1349.3827823800896,
-			"z": 0.8906212514220959,
+			"x": 1085.1966659991356,
+			"y": -2691.537355264263,
+			"z": 0.7040508946508836,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
+		},
+		{
+			"x": -453.92141545105386,
+			"y": 2799.409489896606,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ese7HukZlclgc8wfPeHoL",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 577.0250244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". Enhances user experience."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". Reduces unnecessary rendering."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". Makes apps more interactive and responsive."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aK6QMu7V",
+			"typeName": "shape"
 		},
 		{
 			"x": -304.0866219890512,
@@ -402,6 +593,63 @@
 			},
 			"parentId": "page:page",
 			"index": "a9HYdG4V",
+			"typeName": "shape"
+		},
+		{
+			"x": -699.2938708964467,
+			"y": 3009.5895633295263,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:b0pvHnTOB1cql-ylanmrx",
+			"type": "text",
+			"props": {
+				"color": "yellow",
+				"size": "m",
+				"w": 914.25,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "{condition && <div> Write something</div>}"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "{condition ? <div> Error do it again</div> : <div> Congratulations</div>}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aLUVmQYl",
 			"typeName": "shape"
 		},
 		{
@@ -507,9 +755,9 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:kVlaJ4gcCdtGIkQc4oZcw"
+				"shape:GicltUSy--umoHcAyIZGm"
 			],
-			"hoveredShapeId": "shape:kVlaJ4gcCdtGIkQc4oZcw",
+			"hoveredShapeId": "shape:GicltUSy--umoHcAyIZGm",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -591,6 +839,347 @@
 			},
 			"parentId": "page:page",
 			"index": "aCgouznG",
+			"typeName": "shape"
+		},
+		{
+			"x": -195.2479570870015,
+			"y": 1912.725964481533,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:M2HJn-5We0_OLDRueljKM",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "m",
+				"w": 157.625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.312626971042784,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Map method"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aE1s1h9V",
+			"typeName": "shape"
+		},
+		{
+			"x": -483.9441686006026,
+			"y": 2464.9026684237583,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wDsVZKYW90hYLL4vkx6P7",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 603.4249877929688,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". Displaying content based on certain conditions."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". Allows for dynamic user interface"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aGcxAcBV",
+			"typeName": "shape"
+		},
+		{
+			"x": -396.87164383102333,
+			"y": 2012.9567816264198,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qn3yZ7Z1qlUwOuKyjO14W",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1287.5750732421875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.856787365985264,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "function"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "App"
+								},
+								{
+									"type": "text",
+									"text": "() {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "let foodItems = [\"Dal\", \"Green Vegetable\", \"Roti\", \"Salad\", \"Milk\", \"Ghee\"]"
+								},
+								{
+									"type": "text",
+									"text": ";  "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "// Array  MAP Method"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "hardBreak"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  return <>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    <h1> Helathy Food </h1>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    <ul className=\"list-group\">"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      {"
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "http://foodItems.map",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										},
+										{
+											"type": "bold"
+										}
+									],
+									"text": "foodItems.map"
+								},
+								{
+									"type": "text",
+									"text": "((item) "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "=>"
+								},
+								{
+									"type": "text",
+									"text": " ( <li key={"
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "item"
+								},
+								{
+									"type": "text",
+									"text": "} className=\"list-group-item\">{"
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "item"
+								},
+								{
+									"type": "text",
+									"text": "}</li>))}"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    </ul>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  </>"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aDBkHiuV",
 			"typeName": "shape"
 		},
 		{
@@ -696,6 +1285,135 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -534.5794572096588,
+			"y": 2752.807058931945,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cYNwOxUkTZbM0bDf_b66t",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 103.30000305175781,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Benefits"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aJFH9Z8V",
+			"typeName": "shape"
+		},
+		{
+			"x": -565.9159944738276,
+			"y": 3190.0728610532856,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GicltUSy--umoHcAyIZGm",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 330.5249938964844,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.8767603680872653,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "21 . Passing Data via Props"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aMkeEK8V",
+			"typeName": "shape"
+		},
+		{
+			"x": -541.3009948768771,
+			"y": 2559.8999381185163,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tLwKXID7xScOSsBG3Bhnc",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 110.0875015258789,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Methods"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aHHqYK0V",
+			"typeName": "shape"
+		},
+		{
 			"x": -227.14331175495403,
 			"y": 1605.808210373062,
 			"rotation": 0,
@@ -751,7 +1469,9 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {},
+			"stylesForNextShape": {
+				"tldraw:color": "black"
+			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -765,7 +1485,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 804,
+				"w": 1318.4000244140625,
 				"h": 702.4000244140625
 			},
 			"insets": [
