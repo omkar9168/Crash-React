@@ -16,8 +16,7 @@ const FoodItems = ({ items }) => {
           key={item}
           foodItem={item}
           bought={activeItems.includes(item)}
-          handleBuyButton={(event) => onBuyButton(item, event)}
-        ></Item>
+          handleBuyButton={(event) => onBuyButton(item, event)}></Item>
       ))}
     </ul>
   );

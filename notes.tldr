@@ -82,9 +82,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": -76.76189580899722,
-			"y": 5551.7246158105945,
-			"lastActivityTimestamp": 1763551005768,
+			"x": -369.62039275945926,
+			"y": 6647.521619646511,
+			"lastActivityTimestamp": 1764050704006,
 			"meta": {}
 		},
 		{
@@ -115,7 +115,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "class vs function"
+									"text": "className vs function"
 								}
 							]
 						}
@@ -570,9 +570,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1762.6162584632814,
-			"y": -3510.26037895411,
-			"z": 0.2429628651069379,
+			"x": 2023.5459454348222,
+			"y": -5106.969959739419,
+			"z": 0.3598711025682174,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -797,6 +797,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -843.1233732899686,
+			"y": 5766.5674318879155,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:p_OXcl1MbyOs3IgRqkRuU",
+			"type": "text",
+			"props": {
+				"color": "orange",
+				"size": "m",
+				"w": 204.8625030517578,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 3.950301230364091,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "35 . Context API"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "amblIKcV",
+			"typeName": "shape"
+		},
+		{
 			"x": -699.2938708964467,
 			"y": 3009.5895633295263,
 			"rotation": 0,
@@ -940,7 +979,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "class component"
+									"text": "className component"
 								}
 							]
 						},
@@ -1088,12 +1127,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:UCXbZETMdxeopr96FIZbw",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:UCXbZETMdxeopr96FIZbw"
-			],
-			"hoveredShapeId": "shape:UCXbZETMdxeopr96FIZbw",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -1536,7 +1573,7 @@
 												"href": "http://foodItems.map",
 												"target": "_blank",
 												"rel": "noopener noreferrer nofollow",
-												"class": null
+												"className": null
 											}
 										},
 										{
@@ -2272,6 +2309,7 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
+				"tldraw:color": "light-red",
 				"tldraw:size": "xl"
 			},
 			"brush": null,
@@ -2287,7 +2325,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 791.2000122070312,
+				"w": 1292,
 				"h": 702.4000244140625
 			},
 			"insets": [

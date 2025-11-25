@@ -6,14 +6,14 @@ import "./App.css";
 function App() {
   return (
     <center className="todo-container">
-        <AppName/>
-        <AddTodo/>
-        <div className='items-container'>
-        <TodoItem1/>
+      <AppName />
+      <AddTodo />
+      <div className="items-container">
+        <TodoItem1 />
         <TodoItem2></TodoItem2>
-        </div>
+      </div>
     </center>
   );
 }
 
-export default App
+export default App;

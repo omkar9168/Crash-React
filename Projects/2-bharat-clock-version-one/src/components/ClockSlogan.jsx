@@ -1,11 +1,11 @@
 function ClockSlogan() {
   return (
     <>
-    <p className="lead">
-      This is the Clock that shows the time in Bharat at all times.
-    </p>
+      <p className="lead">
+        This is the Clock that shows the time in Bharat at all times.
+      </p>
     </>
-  )
+  );
 }
 
-export default ClockSlogan
+export default ClockSlogan;
