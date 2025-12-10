@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: cornflowerblue;
+}
+
+.app {
+  background-color: aquamarine;
+  border-radius: 20px;
+  color: black;
+  padding: 20px;
+  position: static;
+  border-color: blue;
+  border: 5px solid;
+}
