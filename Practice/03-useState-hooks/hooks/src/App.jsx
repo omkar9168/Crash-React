@@ -8,10 +8,10 @@ function App() {
       <p className="pr">Count is {count}</p>
       <h4>Number is {count % 2 === 0 ? "Even" : "Odd"}</h4>
       <button onClick={() => setCount(count + 1)} className="btn">
-        Increment
+        Increment +
       </button>
       <button onClick={() => setCount(count - 1)} className="btn">
-        Decrement
+        Decrement -
       </button>
     </div>
   );
